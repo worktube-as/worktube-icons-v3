@@ -1,0 +1,19 @@
+
+              import React, { Component } from 'react'
+
+              export default class UserFillIcon extends Component {
+                render() {
+                  return (
+                    
+<svg width={this.props.size} height={this.props.size} viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" >
+    
+    <title>Icons/Fill/User-fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons/Fill/User" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
+        <path d="M8.4,15 L8.4,15 C6.4,13.8 5,11.5 5,9 C5,5.1 8.1,2 12,2 C15.9,2 19,5.1 19,9 C19,11.5 17.6,13.8 15.6,15 C17.6,16.2 19,18.5 19,21 C19,21.6 18.6,22 18,22 C17.4,22 17,21.6 17,21 C17,18.2 14.8,16 12,16 C9.2,16 7,18.2 7,21 C7,21.6 6.6,22 6,22 C5.4,22 5,21.6 5,21 C5,18.5 6.4,16.2 8.4,15 Z" id="↳-🎨COLOR" fill={this.props.color}></path>
+    </g>
+</svg>
+                  )
+                }
+              }
+            

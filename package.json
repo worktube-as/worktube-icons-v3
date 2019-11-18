@@ -1,7 +1,7 @@
 {
   "name": "worktube-icons-v3",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.4",
+  "private": false,
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -11,7 +11,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "publish:npm": "rm -rf core && mkdir core && babel src/lib -d core --copy-files && babel src/index.js -d core --copy-files"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -27,5 +28,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-react"
+    ]
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.0",
+    "@babel/preset-react": "^7.7.0"
   }
 }
