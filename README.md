@@ -6,13 +6,21 @@ or
 
 `yarn add worktube-icons-v3`
 
-## Usage
+## Import icon component
 
 `import {<iconName>} from 'worktube-icons-v3/core'`
 
 or
 
 `import {<iconName1>, <iconName2>, <iconName3>} from 'worktube-icons-v3/core'`
+
+## Icon component usage example
+
+`
+import {Activities} from 'worktube-icons-v3/core'
+
+<Activities size="24px" color="#4c4c4c" />
+`
 
 ## Icons
 
