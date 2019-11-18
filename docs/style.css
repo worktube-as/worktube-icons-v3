@@ -1,0 +1,918 @@
+@font-face {
+  font-family: 'WT-iconfont';
+  src:
+    url('fonts/WT-iconfont.ttf?rqj41r') format('truetype'),
+    url('fonts/WT-iconfont.woff?rqj41r') format('woff'),
+    url('fonts/WT-iconfont.svg?rqj41r#WT-iconfont') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="wt-icon-"], [class*=" wt-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'WT-iconfont' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wt-icon-company-childs:before {
+  content: "\e9d4";
+  color: #4c4c4c;
+}
+.wt-icon-credit-card:before {
+  content: "\e9dc";
+  color: #4c4c4c;
+}
+.wt-icon-dashboard:before {
+  content: "\e9dd";
+  color: #4c4c4c;
+}
+.wt-icon-mail-letter:before {
+  content: "\e9de";
+  color: #4c4c4c;
+}
+.wt-icon-web-page:before {
+  content: "\e9df";
+  color: #4c4c4c;
+}
+.wt-icon-flow:before {
+  content: "\e9db";
+  color: #4c4c4c;
+}
+.wt-icon-password:before {
+  content: "\e9da";
+  color: #4c4c4c;
+}
+.wt-icon-card-configuration:before {
+  content: "\e9d9";
+  color: #4c4c4c;
+}
+.wt-icon-eye-checked:before {
+  content: "\e9d5";
+  color: #4c4c4c;
+}
+.wt-icon-progress:before {
+  content: "\e9d6";
+  color: #4c4c4c;
+}
+.wt-icon-snowflake:before {
+  content: "\e9d7";
+  color: #4c4c4c;
+}
+.wt-icon-user-rejected:before {
+  content: "\e9d8";
+  color: #4c4c4c;
+}
+.wt-icon-collapse:before {
+  content: "\e9d2";
+  color: #4c4c4c;
+}
+.wt-icon-uncollapse:before {
+  content: "\e9d3";
+  color: #4c4c4c;
+}
+.wt-icon-avatar:before {
+  content: "\e9cc";
+  color: #4c4c4c;
+}
+.wt-icon-megaphone-on:before {
+  content: "\e9cd";
+  color: #4c4c4c;
+}
+.wt-icon-news:before {
+  content: "\e9ce";
+  color: #4c4c4c;
+}
+.wt-icon-profile:before {
+  content: "\e9cf";
+  color: #4c4c4c;
+}
+.wt-icon-summary:before {
+  content: "\e9d0";
+  color: #4c4c4c;
+}
+.wt-icon-video-selfie:before {
+  content: "\e9d1";
+  color: #4c4c4c;
+}
+.wt-icon-activities:before {
+  content: "\e9c6";
+  color: #4c4c4c;
+}
+.wt-icon-baby:before {
+  content: "\e9c7";
+  color: #4c4c4c;
+}
+.wt-icon-healthcare:before {
+  content: "\e9c8";
+  color: #4c4c4c;
+}
+.wt-icon-industry:before {
+  content: "\e9c9";
+  color: #4c4c4c;
+}
+.wt-icon-logout:before {
+  content: "\e9ca";
+  color: #4c4c4c;
+}
+.wt-icon-eye-on:before {
+  content: "\e96e";
+  color: #4c4c4c;
+}
+.wt-icon-video:before {
+  content: "\e989";
+  color: #4c4c4c;
+}
+.wt-icon-user:before {
+  content: "\e987";
+  color: #4c4c4c;
+}
+.wt-icon-trash:before {
+  content: "\e980";
+  color: #4c4c4c;
+}
+.wt-icon-thumb-up:before {
+  content: "\e97d";
+  color: #4c4c4c;
+}
+.wt-icon-thumb-down:before {
+  content: "\e97b";
+  color: #4c4c4c;
+}
+.wt-icon-settings:before {
+  content: "\e96c";
+  color: #4c4c4c;
+}
+.wt-icon-picture:before {
+  content: "\e95e";
+  color: #4c4c4c;
+}
+.wt-icon-photo:before {
+  content: "\e95c";
+  color: #4c4c4c;
+}
+.wt-icon-phone:before {
+  content: "\e95a";
+  color: #4c4c4c;
+}
+.wt-icon-mail:before {
+  content: "\e946";
+  color: #4c4c4c;
+}
+.wt-icon-bookmark:before {
+  content: "\e910";
+  color: #4c4c4c;
+}
+.wt-icon-doc:before {
+  content: "\e91d";
+  color: #4c4c4c;
+}
+.wt-icon-message:before {
+  content: "\e91a";
+  color: #4c4c4c;
+}
+.wt-icon-edit:before {
+  content: "\e922";
+  color: #4c4c4c;
+}
+.wt-icon-language:before {
+  content: "\e93e";
+  color: #4c4c4c;
+}
+.wt-icon-job:before {
+  content: "\e93c";
+  color: #4c4c4c;
+}
+.wt-icon-location:before {
+  content: "\e943";
+  color: #4c4c4c;
+}
+.wt-icon-star:before {
+  content: "\e978";
+  color: #4c4c4c;
+}
+.wt-icon-certificate:before {
+  content: "\e913";
+  color: #4c4c4c;
+}
+.wt-icon-upload:before {
+  content: "\e985";
+  color: #4c4c4c;
+}
+.wt-icon-search:before {
+  content: "\e96a";
+  color: #4c4c4c;
+}
+.wt-icon-robot-interview:before {
+  content: "\e969";
+  color: #4c4c4c;
+}
+.wt-icon-radio-unchecked:before {
+  content: "\e966";
+  color: #4c4c4c;
+}
+.wt-icon-radio-checked:before {
+  content: "\e965";
+  color: #4c4c4c;
+}
+.wt-icon-plus:before {
+  content: "\e960";
+  color: #4c4c4c;
+}
+.wt-icon-phone-interview:before {
+  content: "\e959";
+  color: #4c4c4c;
+}
+.wt-icon-phone-interview-canceled:before {
+  content: "\e958";
+  color: #4c4c4c;
+}
+.wt-icon-onsite-interview:before {
+  content: "\e953";
+  color: #4c4c4c;
+}
+.wt-icon-onsite-interview-canceled:before {
+  content: "\e952";
+  color: #4c4c4c;
+}
+.wt-icon-online-interview:before {
+  content: "\e951";
+  color: #4c4c4c;
+}
+.wt-icon-online-interview-canceled:before {
+  content: "\e950";
+  color: #4c4c4c;
+}
+.wt-icon-offer:before {
+  content: "\e94f";
+  color: #4c4c4c;
+}
+.wt-icon-offer-declined:before {
+  content: "\e94d";
+  color: #4c4c4c;
+}
+.wt-icon-offer-accepted:before {
+  content: "\e94c";
+  color: #4c4c4c;
+}
+.wt-icon-login:before {
+  content: "\e944";
+  color: #4c4c4c;
+}
+.wt-icon-link:before {
+  content: "\e93f";
+  color: #4c4c4c;
+}
+.wt-icon-invited-candidate:before {
+  content: "\e939";
+  color: #4c4c4c;
+}
+.wt-icon-invite-candidate:before {
+  content: "\e938";
+  color: #4c4c4c;
+}
+.wt-icon-download:before {
+  content: "\e91e";
+  color: #4c4c4c;
+}
+.wt-icon-close:before {
+  content: "\e918";
+  color: #4c4c4c;
+}
+.wt-icon-checkmark:before {
+  content: "\e916";
+  color: #4c4c4c;
+}
+.wt-icon-checkbox-unchecked:before {
+  content: "\e915";
+  color: #4c4c4c;
+}
+.wt-icon-checkbox-checked:before {
+  content: "\e914";
+}
+.wt-icon-ban:before {
+  content: "\e90d";
+  color: #4c4c4c;
+}
+.wt-icon-arrow-right-long:before {
+  content: "\e909";
+  color: #4c4c4c;
+}
+.wt-icon-arrow-left-long:before {
+  content: "\e907";
+  color: #4c4c4c;
+}
+.wt-icon-clock:before {
+  content: "\e917";
+  color: #4c4c4c;
+}
+.wt-icon-hired:before {
+  content: "\e934";
+  color: #4c4c4c;
+}
+.wt-icon-offer-sent:before {
+  content: "\e94e";
+  color: #4c4c4c;
+}
+.wt-icon-help:before {
+  content: "\e932";
+  color: #4c4c4c;
+}
+.wt-icon-eye-off:before {
+  content: "\e933";
+  color: #4c4c4c;
+}
+.wt-icon-menu:before {
+  content: "\e949";
+  color: #4c4c4c;
+}
+.wt-icon-arrow-left-short:before {
+  content: "\e908";
+  color: #4c4c4c;
+}
+.wt-icon-skills:before {
+  content: "\e970";
+  color: #4c4c4c;
+}
+.wt-icon-calendar:before {
+  content: "\e911";
+  color: #4c4c4c;
+}
+.wt-icon-education:before {
+  content: "\e923";
+  color: #4c4c4c;
+}
+.wt-icon-arrow-up-long:before {
+  content: "\e90b";
+  color: #4c4c4c;
+}
+.wt-icon-arrow-down-long:before {
+  content: "\e905";
+  color: #4c4c4c;
+}
+.wt-icon-arrow-up-short:before {
+  content: "\e90c";
+  color: #4c4c4c;
+}
+.wt-icon-arrow-right-short:before {
+  content: "\e90a";
+  color: #4c4c4c;
+}
+.wt-icon-arrow-down-short:before {
+  content: "\e906";
+  color: #4c4c4c;
+}
+.wt-icon-groups:before {
+  content: "\e92f";
+  color: #4c4c4c;
+}
+.wt-icon-sorting:before {
+  content: "\e99b";
+  color: #4c4c4c;
+}
+.wt-icon-skill-score-down:before {
+  content: "\e999";
+  color: #4c4c4c;
+}
+.wt-icon-experiance-score-down:before {
+  content: "\e996";
+  color: #4c4c4c;
+}
+.wt-icon-education-score-down:before {
+  content: "\e994";
+  color: #4c4c4c;
+}
+.wt-icon-applying-date-down:before {
+  content: "\e992";
+  color: #4c4c4c;
+}
+.wt-icon-skill-score-up:before {
+  content: "\e99a";
+  color: #4c4c4c;
+}
+.wt-icon-experiance-score-up:before {
+  content: "\e997";
+  color: #4c4c4c;
+}
+.wt-icon-education-score-up:before {
+  content: "\e995";
+  color: #4c4c4c;
+}
+.wt-icon-applying-date-up:before {
+  content: "\e993";
+  color: #4c4c4c;
+}
+.wt-icon-relevant-candidates:before {
+  content: "\e998";
+  color: #4c4c4c;
+}
+.wt-icon-navigation:before {
+  content: "\e900";
+  color: #4c4c4c;
+}
+.wt-icon-play:before {
+  content: "\e901";
+  color: #4c4c4c;
+}
+.wt-icon-mandatory:before {
+  content: "\e902";
+  color: #4c4c4c;
+}
+.wt-icon-upload-doc:before {
+  content: "\e903";
+}
+.wt-icon-printer:before {
+  content: "\e904";
+  color: #4c4c4c;
+}
+.wt-icon-globe:before {
+  content: "\e91b";
+  color: #4c4c4c;
+}
+.wt-icon-resizer:before {
+  content: "\e924";
+  color: #4c4c4c;
+}
+.wt-icon-bell:before {
+  content: "\e926";
+  color: #4c4c4c;
+}
+.wt-icon-flag:before {
+  content: "\e928";
+  color: #4c4c4c;
+}
+.wt-icon-crop:before {
+  content: "\e92a";
+  color: #4c4c4c;
+}
+.wt-icon-lock-opened:before {
+  content: "\e92c";
+  color: #4c4c4c;
+}
+.wt-icon-lock-closed:before {
+  content: "\e92d";
+  color: #4c4c4c;
+}
+.wt-icon-share:before {
+  content: "\e930";
+  color: #4c4c4c;
+}
+.wt-icon-heart:before {
+  content: "\e931";
+  color: #4c4c4c;
+}
+.wt-icon-zoom-in:before {
+  content: "\e935";
+  color: #4c4c4c;
+}
+.wt-icon-zoom-out:before {
+  content: "\e93a";
+  color: #4c4c4c;
+}
+.wt-icon-important:before {
+  content: "\e94b";
+  color: #4c4c4c;
+}
+.wt-icon-info:before {
+  content: "\e954";
+  color: #4c4c4c;
+}
+.wt-icon-usd:before {
+  content: "\e955";
+  color: #4c4c4c;
+}
+.wt-icon-microphone-on:before {
+  content: "\e956";
+  color: #4c4c4c;
+}
+.wt-icon-microphone-off:before {
+  content: "\e95f";
+  color: #4c4c4c;
+}
+.wt-icon-gesture:before {
+  content: "\e961";
+  color: #4c4c4c;
+}
+.wt-icon-attachment:before {
+  content: "\e962";
+  color: #4c4c4c;
+}
+.wt-icon-megaphone:before {
+  content: "\e964";
+  color: #4c4c4c;
+}
+.wt-icon-pause:before {
+  content: "\e967";
+  color: #4c4c4c;
+}
+.wt-icon-keyboard:before {
+  content: "\e968";
+  color: #4c4c4c;
+}
+.wt-icon-previous:before {
+  content: "\e96f";
+  color: #4c4c4c;
+}
+.wt-icon-next:before {
+  content: "\e972";
+  color: #4c4c4c;
+}
+.wt-icon-volume:before {
+  content: "\e973";
+  color: #4c4c4c;
+}
+.wt-icon-volume-up:before {
+  content: "\e974";
+  color: #4c4c4c;
+}
+.wt-icon-volume-down:before {
+  content: "\e975";
+  color: #4c4c4c;
+}
+.wt-icon-volume-off:before {
+  content: "\e976";
+  color: #4c4c4c;
+}
+.wt-icon-stop:before {
+  content: "\e979";
+  color: #4c4c4c;
+}
+.wt-icon-maximize:before {
+  content: "\e97e";
+  color: #4c4c4c;
+}
+.wt-icon-minimize:before {
+  content: "\e981";
+  color: #4c4c4c;
+}
+.wt-icon-send:before {
+  content: "\e982";
+  color: #4c4c4c;
+}
+.wt-icon-refresh:before {
+  content: "\e983";
+  color: #4c4c4c;
+}
+.wt-icon-quote:before {
+  content: "\e98a";
+  color: #4c4c4c;
+}
+.wt-icon-comment:before {
+  content: "\e98b";
+  color: #4c4c4c;
+}
+.wt-icon-wallet:before {
+  content: "\e98c";
+  color: #4c4c4c;
+}
+.wt-icon-bold:before {
+  content: "\e98d";
+  color: #4c4c4c;
+}
+.wt-icon-italic:before {
+  content: "\e98e";
+  color: #4c4c4c;
+}
+.wt-icon-underlined:before {
+  content: "\e98f";
+  color: #4c4c4c;
+}
+.wt-icon-align-center:before {
+  content: "\e990";
+  color: #4c4c4c;
+}
+.wt-icon-align-left:before {
+  content: "\e99c";
+  color: #4c4c4c;
+}
+.wt-icon-align-right:before {
+  content: "\e99d";
+  color: #4c4c4c;
+}
+.wt-icon-list-bulleted:before {
+  content: "\e99e";
+  color: #4c4c4c;
+}
+.wt-icon-list-numbered:before {
+  content: "\e99f";
+  color: #4c4c4c;
+}
+.wt-icon-text-color:before {
+  content: "\e9a0";
+  color: #4c4c4c;
+}
+.wt-icon-fill-color:before {
+  content: "\e9a1";
+  color: #4c4c4c;
+}
+.wt-icon-company:before {
+  content: "\e9a2";
+  color: #4c4c4c;
+}
+.wt-icon-smile-very-good:before {
+  content: "\e963";
+  color: #4c4c4c;
+}
+.wt-icon-smile-good:before {
+  content: "\e9a3";
+  color: #4c4c4c;
+}
+.wt-icon-smile-average:before {
+  content: "\e9a4";
+  color: #4c4c4c;
+}
+.wt-icon-smile-bad:before {
+  content: "\e9a5";
+  color: #4c4c4c;
+}
+.wt-icon-certificate-score-down:before {
+  content: "\e9a6";
+  color: #4c4c4c;
+}
+.wt-icon-certificate-score-up:before {
+  content: "\e9a7";
+  color: #4c4c4c;
+}
+.wt-icon-language-score-down:before {
+  content: "\e9a8";
+  color: #4c4c4c;
+}
+.wt-icon-language-score-up:before {
+  content: "\e9a9";
+  color: #4c4c4c;
+}
+.wt-icon-rating:before {
+  content: "\e9ae";
+  color: #4c4c4c;
+}
+.wt-icon-save:before {
+  content: "\e9af";
+  color: #4c4c4c;
+}
+.wt-icon-mouse:before {
+  content: "\e9b0";
+  color: #4c4c4c;
+}
+.wt-icon-properties:before {
+  content: "\e9b1";
+  color: #4c4c4c;
+}
+.wt-icon-profile-preview:before {
+  content: "\e9b2";
+  color: #4c4c4c;
+}
+.wt-icon-checkmark-in-circle:before {
+  content: "\e9b3";
+  color: #4c4c4c;
+}
+.wt-icon-job-preview:before {
+  content: "\e9b4";
+  color: #4c4c4c;
+}
+.wt-icon-rank:before {
+  content: "\e9b5";
+  color: #4c4c4c;
+}
+.wt-icon-hire:before {
+  content: "\e9b6";
+  color: #4c4c4c;
+}
+.wt-icon-update:before {
+  content: "\e9b7";
+  color: #4c4c4c;
+}
+.wt-icon-angel:before {
+  content: "\e9b8";
+  color: #4c4c4c;
+}
+.wt-icon-percent:before {
+  content: "\e9b9";
+  color: #4c4c4c;
+}
+.wt-icon-minus:before {
+  content: "\e9ba";
+  color: #4c4c4c;
+}
+.wt-icon-filter:before {
+  content: "\e9bb";
+  color: #4c4c4c;
+}
+.wt-icon-dispute:before {
+  content: "\e9bc";
+  color: #4c4c4c;
+}
+.wt-icon-invite-to-group:before {
+  content: "\e9bd";
+  color: #4c4c4c;
+}
+.wt-icon-rent:before {
+  content: "\e9be";
+  color: #4c4c4c;
+}
+.wt-icon-service:before {
+  content: "\e9bf";
+  color: #4c4c4c;
+}
+.wt-icon-invite-to-interview:before {
+  content: "\e9c0";
+  color: #4c4c4c;
+}
+.wt-icon-details:before {
+  content: "\e9c1";
+  color: #4c4c4c;
+}
+.wt-icon-contract:before {
+  content: "\e9c2";
+  color: #4c4c4c;
+}
+.wt-icon-pre-testing:before {
+  content: "\e9c3";
+  color: #4c4c4c;
+}
+.wt-icon-test-task:before {
+  content: "\e9c4";
+  color: #4c4c4c;
+}
+.wt-icon-eye-on-fill:before {
+  content: "\e96d";
+  color: #4c4c4c;
+}
+.wt-icon-video-fill:before {
+  content: "\e988";
+  color: #4c4c4c;
+}
+.wt-icon-user-fill:before {
+  content: "\e986";
+  color: #4c4c4c;
+}
+.wt-icon-trash-fill:before {
+  content: "\e97f";
+  color: #4c4c4c;
+}
+.wt-icon-thumb-up-fill:before {
+  content: "\e97c";
+  color: #4c4c4c;
+}
+.wt-icon-thumb-down-fill:before {
+  content: "\e97a";
+  color: #4c4c4c;
+}
+.wt-icon-settings-fill:before {
+  content: "\e96b";
+  color: #4c4c4c;
+}
+.wt-icon-picture-fill:before {
+  content: "\e95d";
+  color: #4c4c4c;
+}
+.wt-icon-photo-fill:before {
+  content: "\e95b";
+  color: #4c4c4c;
+}
+.wt-icon-phone-fill:before {
+  content: "\e957";
+  color: #4c4c4c;
+}
+.wt-icon-mail-fill:before {
+  content: "\e945";
+  color: #4c4c4c;
+}
+.wt-icon-bookmark-fill:before {
+  content: "\e90f";
+  color: #4c4c4c;
+}
+.wt-icon-doc-fill:before {
+  content: "\e91c";
+  color: #4c4c4c;
+}
+.wt-icon-message-fill:before {
+  content: "\e919";
+  color: #4c4c4c;
+}
+.wt-icon-edit-fill:before {
+  content: "\e921";
+  color: #4c4c4c;
+}
+.wt-icon-language-fill:before {
+  content: "\e93d";
+  color: #4c4c4c;
+}
+.wt-icon-job-fill:before {
+  content: "\e93b";
+  color: #4c4c4c;
+}
+.wt-icon-location-fill:before {
+  content: "\e942";
+  color: #4c4c4c;
+}
+.wt-icon-star-fill:before {
+  content: "\e977";
+  color: #4c4c4c;
+}
+.wt-icon-smile-very-good-fill:before {
+  content: "\e9aa";
+  color: #4c4c4c;
+}
+.wt-icon-smile-good-fill:before {
+  content: "\e9ab";
+  color: #4c4c4c;
+}
+.wt-icon-smile-average-fill:before {
+  content: "\e9ac";
+  color: #4c4c4c;
+}
+.wt-icon-smile-bad-fill:before {
+  content: "\e9ad";
+  color: #4c4c4c;
+}
+.wt-icon-certificate-fill:before {
+  content: "\e912";
+  color: #4c4c4c;
+}
+.wt-icon-heart-fill:before {
+  content: "\e940";
+  color: #4c4c4c;
+}
+.wt-icon-checkbox-checked-fill:before {
+  content: "\e9cb";
+  color: #4c4c4c;
+}
+.wt-icon-checkbox-semi-checked-fill:before {
+  content: "\e9c5";
+  color: #4c4c4c;
+}
+.wt-icon-facebook:before {
+  content: "\e925";
+  color: #4c4c4c;
+}
+.wt-icon-linkedin2:before {
+  content: "\e941";
+}
+.wt-icon-linkedin:before {
+  content: "\e947";
+  color: #4c4c4c;
+}
+.wt-icon-twitter:before {
+  content: "\e984";
+  color: #4c4c4c;
+}
+.wt-icon-instagram:before {
+  content: "\e936";
+  color: #4c4c4c;
+}
+.wt-icon-google:before {
+  content: "\e92e";
+  color: #4c4c4c;
+}
+.wt-icon-youtube:before {
+  content: "\e991";
+  color: #4c4c4c;
+}
+.wt-icon-behance:before {
+  content: "\e90e";
+  color: #4c4c4c;
+}
+.wt-icon-dribbble:before {
+  content: "\e91f";
+  color: #4c4c4c;
+}
+.wt-icon-github:before {
+  content: "\e927";
+  color: #4c4c4c;
+}
+.wt-icon-skype:before {
+  content: "\e971";
+  color: #4c4c4c;
+}
+.wt-icon-dropbox:before {
+  content: "\e920";
+  color: #4c4c4c;
+}
+.wt-icon-google-drive:before {
+  content: "\e92b";
+  color: #4c4c4c;
+}
+.wt-icon-invision:before {
+  content: "\e937";
+  color: #4c4c4c;
+}
+.wt-icon-play-market:before {
+  content: "\e929";
+  color: #4c4c4c;
+}
+.wt-icon-medium:before {
+  content: "\e948";
+  color: #4c4c4c;
+}
+.wt-icon-vk:before {
+  content: "\e94a";
+  color: #4c4c4c;
+}
