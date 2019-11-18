@@ -1,14 +1,18 @@
 ## Installation
 
-### `npm i --save worktube-icons-v3`
+`npm i --save worktube-icons-v3`
 
-of
+or
 
-### `yarn add worktube-icons-v3`
+`yarn add worktube-icons-v3`
 
 ## Usage
 
-### `import <iconName> from 'worktube-icons-v3/core'`
+`import {<iconName>} from 'worktube-icons-v3/core'`
+
+or
+
+`import {<iconName1>, <iconName2>, <iconName3>} from 'worktube-icons-v3/core'`
 
 ## Icons
 
