@@ -16,11 +16,8 @@ or
 
 ## Icon component usage example
 
-`
-import {Activities} from 'worktube-icons-v3/core'
+`<Activities size="24px" color="#4c4c4c" />`
 
-<Activities size="24px" color="#4c4c4c" />
-`
 
 ## Icons
 
