@@ -12,237 +12,237 @@ of
 
 ## Icons
 
-ActivitiesIcon 
-AlignCenterIcon 
-AlignLeftIcon 
-AlignRightIcon 
-AngelIcon 
-ApplyingDateDownIcon 
-ApplyingDateUpIcon 
-ArrowDecreaseIcon 
-ArrowDownLongIcon 
-ArrowDownShortIcon 
-ArrowIncreaseIcon 
-ArrowLeftLongIcon 
-ArrowLeftShortIcon 
-ArrowRightLongIcon 
-ArrowRightShortIcon 
-ArrowUpLongIcon 
-ArrowUpShortIcon 
-AttachmentIcon 
-AvatarIcon 
-BabyIcon 
-BanIcon 
-BasicIcon 
-BasicInverseIcon 
-BehanceIcon 
-BellIcon 
-BirthdayIcon 
-BoldIcon 
-BookmarkFillIcon 
-BookmarkIcon 
-CalendarIcon 
-CardConfigurationIcon 
-CertificateFillIcon 
-CertificateIcon 
-CertificateScoreDownIcon 
-CertificateScoreUpIcon 
-CheckboxCheckedFillIcon 
-CheckboxSemiCheckedFillIcon 
-CheckboxUncheckedIcon 
-CheckmarkIcon 
-CheckmarkInCircleIcon 
-ClockIcon 
-CloseIcon 
-CollapseIcon 
-CommentIcon 
-CompanyChildsIcon 
-CompanyIcon 
-ContractIcon 
-CopyIcon 
-CreditCardIcon 
-CropIcon 
-DashboardIcon 
-DeadlineIcon 
-DetailsIcon 
-DisputeIcon 
-DocFillIcon 
-DocIcon 
-DownloadIcon 
-DragNDropIcon 
-DribbbleIcon 
-DropboxIcon 
-EditFillIcon 
-EditIcon 
-EducationIcon 
-EducationScoreDownIcon 
-EducationScoreUpIcon 
-ExperianceScoreDownIcon 
-ExperianceScoreUpIcon 
-EyeCheckedIcon 
-EyeOffIcon 
-EyeOnFillIcon 
-EyeOnIcon 
-FacebookIcon 
-FillColorIcon 
-FilterIcon 
-FlagIcon 
-FlowIcon 
-GestureIcon 
-GithubIcon 
-GlobeIcon 
-GoogleDriveIcon 
-GoogleIcon 
-GroupsIcon 
-HealthcareIcon 
-HeartFillIcon 
-HeartIcon 
-HireIcon 
-HiredIcon 
-ImportantIcon 
-IndustryIcon 
-InfoIcon 
-InstagramIcon 
-IntercomIcon 
-InvisionIcon 
-InviteToGroupIcon 
-InviteToInterviewIcon 
-InviteToVacancyIcon 
-InvitedCandidateIcon 
-ItalicIcon 
-JobFillIcon 
-JobIcon 
-JobPreviewIcon 
-KeyboardIcon 
-LanguageFillIcon 
-LanguageIcon 
-LanguageScoreDownIcon 
-LanguageScoreUpIcon 
-LifebuoyIcon 
-LinkIcon 
-LinkedinIcon 
-ListBulletedIcon 
-ListNumberedIcon 
-LocationFillIcon 
-LocationIcon 
-LockClosedIcon 
-LockOpenedIcon 
-LoginIcon 
-LogoutIcon 
-MailFillIcon 
-MailIcon 
-MailLetterIcon 
-MandatoryIcon 
-MaximizeIcon 
-MedalIcon 
-MediumIcon 
-MegaphoneIcon 
-MegaphoneOnIcon 
-MenuIcon 
-MessageFillIcon 
-MessageIcon 
-MicrophoneOffIcon 
-MicrophoneOnIcon 
-MinimizeIcon 
-MinusIcon 
-MouseIcon 
-NavigationIcon 
-NewsIcon 
-NextIcon 
-OfferAcceptedIcon 
-OfferDeclinedIcon 
-OfferIcon 
-OfferSentIcon 
-OnlineInterviewCanceledIcon 
-OnlineInterviewIcon 
-OnsiteInterviewCanceledIcon 
-OnsiteInterviewIcon 
-PasswordIcon 
-PauseIcon 
-PercentIcon 
-PhoneFillIcon 
-PhoneIcon 
-PhoneInterviewCanceledIcon 
-PhoneInterviewIcon 
-PhotoFillIcon 
-PhotoIcon 
-PictureFillIcon 
-PictureIcon 
-PlayIcon 
-PlayMarketIcon 
-PlusIcon 
-PreTestingIcon 
-PremiumIcon 
-PreviousIcon 
-PrinterIcon 
-ProfileIcon 
-ProfilePreviewIcon 
-ProgressIcon 
-PropertiesIcon 
-QuestionMarkIcon 
-QuoteIcon 
-RadioCheckedIcon 
-RadioUncheckedIcon 
-RankIcon 
-RatingIcon 
-RefreshIcon 
-RelevantCandidatesIcon 
-RentIcon 
-ResizerIcon 
-RobotInterviewIcon 
-RobotInterviewWithStatusIcon 
-SaveIcon 
-SearchIcon 
-SendIcon 
-ServiceIcon 
-SettingsFillIcon 
-SettingsIcon 
-ShareIcon 
-SkillScoreDownIcon 
-SkillScoreUpIcon 
-SkillsIcon 
-SkypeIcon 
-SmileAverageFillIcon 
-SmileAverageIcon 
-SmileBadFillIcon 
-SmileBadIcon 
-SmileGoodFillIcon 
-SmileGoodIcon 
-SmileVeryGoodFillIcon 
-SmileVeryGoodIcon 
-SnowflakeIcon 
-SortingIcon 
-StarFillIcon 
-StarIcon 
-StopIcon 
-SummaryIcon 
-TestTaskIcon 
-TextColorIcon 
-ThumbDownFillIcon 
-ThumbDownIcon 
-ThumbUpFillIcon 
-ThumbUpIcon 
-TrashFillIcon 
-TrashIcon 
-TwitterIcon 
-UncollapseIcon 
-UnderlinedIcon 
-UpdateIcon 
-UploadIcon 
-UsdIcon 
-UserFillIcon 
-UserIcon 
-UserRejectedIcon 
-VideoFillIcon 
-VideoIcon 
-VideoSelfieIcon 
-VkIcon 
-VolumeDownIcon 
-VolumeIcon 
-VolumeOffIcon 
-VolumeUpIcon 
-WalletIcon 
-WebPageIcon 
-YoutubeIcon 
-ZoomInIcon 
-ZoomOutIcon
+- ActivitiesIcon 
+- AlignCenterIcon 
+- AlignLeftIcon 
+- AlignRightIcon 
+- AngelIcon 
+- ApplyingDateDownIcon 
+- ApplyingDateUpIcon 
+- ArrowDecreaseIcon 
+- ArrowDownLongIcon 
+- ArrowDownShortIcon 
+- ArrowIncreaseIcon 
+- ArrowLeftLongIcon 
+- ArrowLeftShortIcon 
+- ArrowRightLongIcon 
+- ArrowRightShortIcon 
+- ArrowUpLongIcon 
+- ArrowUpShortIcon 
+- AttachmentIcon 
+- AvatarIcon 
+- BabyIcon 
+- BanIcon 
+- BasicIcon 
+- BasicInverseIcon 
+- BehanceIcon 
+- BellIcon 
+- BirthdayIcon 
+- BoldIcon 
+- BookmarkFillIcon 
+- BookmarkIcon 
+- CalendarIcon 
+- CardConfigurationIcon 
+- CertificateFillIcon 
+- CertificateIcon 
+- CertificateScoreDownIcon 
+- CertificateScoreUpIcon 
+- CheckboxCheckedFillIcon 
+- CheckboxSemiCheckedFillIcon 
+- CheckboxUncheckedIcon 
+- CheckmarkIcon 
+- CheckmarkInCircleIcon 
+- ClockIcon 
+- CloseIcon 
+- CollapseIcon 
+- CommentIcon 
+- CompanyChildsIcon 
+- CompanyIcon 
+- ContractIcon 
+- CopyIcon 
+- CreditCardIcon 
+- CropIcon 
+- DashboardIcon 
+- DeadlineIcon 
+- DetailsIcon 
+- DisputeIcon 
+- DocFillIcon 
+- DocIcon 
+- DownloadIcon 
+- DragNDropIcon 
+- DribbbleIcon 
+- DropboxIcon 
+- EditFillIcon 
+- EditIcon 
+- EducationIcon 
+- EducationScoreDownIcon 
+- EducationScoreUpIcon 
+- ExperianceScoreDownIcon 
+- ExperianceScoreUpIcon 
+- EyeCheckedIcon 
+- EyeOffIcon 
+- EyeOnFillIcon 
+- EyeOnIcon 
+- FacebookIcon 
+- FillColorIcon 
+- FilterIcon 
+- FlagIcon 
+- FlowIcon 
+- GestureIcon 
+- GithubIcon 
+- GlobeIcon 
+- GoogleDriveIcon 
+- GoogleIcon 
+- GroupsIcon 
+- HealthcareIcon 
+- HeartFillIcon 
+- HeartIcon 
+- HireIcon 
+- HiredIcon 
+- ImportantIcon 
+- IndustryIcon 
+- InfoIcon 
+- InstagramIcon 
+- IntercomIcon 
+- InvisionIcon 
+- InviteToGroupIcon 
+- InviteToInterviewIcon 
+- InviteToVacancyIcon 
+- InvitedCandidateIcon 
+- ItalicIcon 
+- JobFillIcon 
+- JobIcon 
+- JobPreviewIcon 
+- KeyboardIcon 
+- LanguageFillIcon 
+- LanguageIcon 
+- LanguageScoreDownIcon 
+- LanguageScoreUpIcon 
+- LifebuoyIcon 
+- LinkIcon 
+- LinkedinIcon 
+- ListBulletedIcon 
+- ListNumberedIcon 
+- LocationFillIcon 
+- LocationIcon 
+- LockClosedIcon 
+- LockOpenedIcon 
+- LoginIcon 
+- LogoutIcon 
+- MailFillIcon 
+- MailIcon 
+- MailLetterIcon 
+- MandatoryIcon 
+- MaximizeIcon 
+- MedalIcon 
+- MediumIcon 
+- MegaphoneIcon 
+- MegaphoneOnIcon 
+- MenuIcon 
+- MessageFillIcon 
+- MessageIcon 
+- MicrophoneOffIcon 
+- MicrophoneOnIcon 
+- MinimizeIcon 
+- MinusIcon 
+- MouseIcon 
+- NavigationIcon 
+- NewsIcon 
+- NextIcon 
+- OfferAcceptedIcon 
+- OfferDeclinedIcon 
+- OfferIcon 
+- OfferSentIcon 
+- OnlineInterviewCanceledIcon 
+- OnlineInterviewIcon 
+- OnsiteInterviewCanceledIcon 
+- OnsiteInterviewIcon 
+- PasswordIcon 
+- PauseIcon 
+- PercentIcon 
+- PhoneFillIcon 
+- PhoneIcon 
+- PhoneInterviewCanceledIcon 
+- PhoneInterviewIcon 
+- PhotoFillIcon 
+- PhotoIcon 
+- PictureFillIcon 
+- PictureIcon 
+- PlayIcon 
+- PlayMarketIcon 
+- PlusIcon 
+- PreTestingIcon 
+- PremiumIcon 
+- PreviousIcon 
+- PrinterIcon 
+- ProfileIcon 
+- ProfilePreviewIcon 
+- ProgressIcon 
+- PropertiesIcon 
+- QuestionMarkIcon 
+- QuoteIcon 
+- RadioCheckedIcon 
+- RadioUncheckedIcon 
+- RankIcon 
+- RatingIcon 
+- RefreshIcon 
+- RelevantCandidatesIcon 
+- RentIcon 
+- ResizerIcon 
+- RobotInterviewIcon 
+- RobotInterviewWithStatusIcon 
+- SaveIcon 
+- SearchIcon 
+- SendIcon 
+- ServiceIcon 
+- SettingsFillIcon 
+- SettingsIcon 
+- ShareIcon 
+- SkillScoreDownIcon 
+- SkillScoreUpIcon 
+- SkillsIcon 
+- SkypeIcon 
+- SmileAverageFillIcon 
+- SmileAverageIcon 
+- SmileBadFillIcon 
+- SmileBadIcon 
+- SmileGoodFillIcon 
+- SmileGoodIcon 
+- SmileVeryGoodFillIcon 
+- SmileVeryGoodIcon 
+- SnowflakeIcon 
+- SortingIcon 
+- StarFillIcon 
+- StarIcon 
+- StopIcon 
+- SummaryIcon 
+- TestTaskIcon 
+- TextColorIcon 
+- ThumbDownFillIcon 
+- ThumbDownIcon 
+- ThumbUpFillIcon 
+- ThumbUpIcon 
+- TrashFillIcon 
+- TrashIcon 
+- TwitterIcon 
+- UncollapseIcon 
+- UnderlinedIcon 
+- UpdateIcon 
+- UploadIcon 
+- UsdIcon 
+- UserFillIcon 
+- UserIcon 
+- UserRejectedIcon 
+- VideoFillIcon 
+- VideoIcon 
+- VideoSelfieIcon 
+- VkIcon 
+- VolumeDownIcon 
+- VolumeIcon 
+- VolumeOffIcon 
+- VolumeUpIcon 
+- WalletIcon 
+- WebPageIcon 
+- YoutubeIcon 
+- ZoomInIcon 
+- ZoomOutIcon 
