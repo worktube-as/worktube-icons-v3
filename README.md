@@ -18,6 +18,11 @@ or
 
 `<ActivitiesIcon size="24px" color="#4c4c4c" />`
 
+## Name transform example
+
+- Docs: wt-icon-company-childs
+- Component name: CompanyChildsIcon
+
 
 ## Icons
 
