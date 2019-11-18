@@ -16,7 +16,7 @@ or
 
 ## Icon component usage example
 
-`<Activities size="24px" color="#4c4c4c" />`
+`<ActivitiesIcon size="24px" color="#4c4c4c" />`
 
 
 ## Icons
